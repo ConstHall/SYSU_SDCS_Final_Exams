@@ -1,0 +1,16 @@
+Construct Person
+Construct Student
+Construct Worker
+Construct InService
+name
+0
+name
+0
+10390000
+name
+0
+10990000
+Destruct InService
+Destruct Worker
+Destruct Student
+Destruct Person

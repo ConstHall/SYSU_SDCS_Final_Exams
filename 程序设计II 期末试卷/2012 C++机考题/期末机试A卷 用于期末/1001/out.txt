@@ -1,0 +1,11 @@
+Derived
+Base
+Base
+Derived
+Base destruct
+Derived destruct
+Base destruct
+Base
+Derived destruct
+Base destruct
+Base destruct

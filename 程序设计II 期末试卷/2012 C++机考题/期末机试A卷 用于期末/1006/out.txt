@@ -1,0 +1,31 @@
+picture element
+math element
+sport element
+*** not in dictionary
+11
+apple->fruit element
+ca->ca element
+diu->zang element
+football->sport element
+haha->happy element
+hehe->wunai element
+kao->angry element
+person->animal element
+pixel->picture element
+set->math element
+water->drink element
+*** not in dictionary
+computer element
+*** not in dictionary
+*** not in dictionary
+ai element
+9
+ai->ai element
+apple->fruit element
+diu->zang element
+football->sport element
+haha->happy element
+hehe->wunai element
+java->computer element
+set->math element
+water->drink element
